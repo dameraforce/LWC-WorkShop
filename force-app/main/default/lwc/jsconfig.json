@@ -1,0 +1,49 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
+            ],
+            "c/todoitem": [
+                "todoitem/todoitem.js"
+            ],
+            "c/todoapp": [
+                "todoapp/todoapp.js"
+            ],
+            "c/videoPlayer": [
+                "videoPlayer/videoPlayer.js"
+            ],
+            "c/methodCaller": [
+                "methodCaller/methodCaller.js"
+            ],
+            "c/parentCmp": [
+                "parentCmp/parentCmp.js"
+            ],
+            "c/childCmp": [
+                "childCmp/childCmp.js"
+            ],
+            "c/accountRf": [
+                "accountRf/accountRf.js"
+            ],
+            "c/loadRecord": [
+                "loadRecord/loadRecord.js"
+            ],
+            "c/editRecord": [
+                "editRecord/editRecord.js"
+            ],
+            "c/createRecord": [
+                "createRecord/createRecord.js"
+            ],
+            "c/accountWireRecordData": [
+                "accountWireRecordData/accountWireRecordData.js"
+            ],
+            "c/accountWireCreateRecord": [
+                "accountWireCreateRecord/accountWireCreateRecord.js"
+            ],
+            "c/handleError": [
+                "handleError/handleError.js"
+            ]
+        }
+    }
+}
