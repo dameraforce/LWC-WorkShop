@@ -7,7 +7,7 @@ The is the Dreamhouse application for use with the Lightning Web Components work
 You will need to have SFDX (Salesforce CLI) installed and VS Code. You will also need your own Dev Hub.
 
 * Using the CLI, navigate to where you want the folder for the source created, and execute the following command:
-    * `git clone https://github.com/garazi/lwc-workshop-master.git `
+    * `git clone https://github.com/dameraforce/lwc-workshop-master.git `
 * Using the CLI, navigate into the newly created folder “lwc-workshop-master”.
 * Log into your devhub with the following:
     * `sfdx force:auth:web:login -a dfDevHub`
